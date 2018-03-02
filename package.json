@@ -1,6 +1,6 @@
 {
   "name": "nativescript-android-declarations",
-  "version": "1.0.0",
+  "version": "0.0.022",
   "description": "Declarations for Android",
   "main": "android.js",
   "scripts": {
