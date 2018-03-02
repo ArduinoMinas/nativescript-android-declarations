@@ -1,0 +1,24 @@
+{
+  "name": "nativescript-android-declarations",
+  "version": "1.0.0",
+  "description": "Declarations for Android",
+  "main": "android.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArduinoMinas/nativescript-android-declarations.git"
+  },
+  "keywords": [
+    "Android",
+    "Typings",
+    "Declarations"
+  ],
+  "author": "Carlos Delfino <consultoria@carlosdelfino.eti.br> (http://carlosdelfino.eti.br)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArduinoMinas/nativescript-android-declarations/issues"
+  },
+  "homepage": "https://github.com/ArduinoMinas/nativescript-android-declarations#readme"
+}
