@@ -1,10 +1,11 @@
 {
   "name": "nativescript-android-declarations",
-  "version": "0.0.022",
-  "description": "Declarations for Android",
-  "main": "android.js",
+  "version": "4.0.022",
+  "description": "Android TypeScript declarations for NativeScript for accessing native objects",
+  "main": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tsc",
+    "package-tag": "npm version $npm_package_version-$PACKAGE_VERSION --no-git-tag-version"
   },
   "repository": {
     "type": "git",
@@ -13,7 +14,15 @@
   "keywords": [
     "Android",
     "Typings",
-    "Declarations"
+    "NativeScript",
+    "TypeScript",
+    "declarations",
+    "native",
+    "platform-specific",
+    "tns",
+    "ts",
+    "ns",
+    "Android"
   ],
   "author": "Carlos Delfino <consultoria@carlosdelfino.eti.br> (http://carlosdelfino.eti.br)",
   "license": "MIT",
